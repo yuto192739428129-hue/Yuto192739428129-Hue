@@ -1,4 +1,7 @@
-## Hi there 👋
+名前：図師悠斗
+所属：鹿児島キャリアデザイン専門学校ITスペシャリスト科１年
+持っているスキル：pythonのpaizaランクC相当
+趣味・はまっていること：散歩
 
 <!--
 **yuto192739428129-hue/Yuto192739428129-Hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
